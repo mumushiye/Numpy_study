@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("C:\\Users\\灵耀S2\\大三实验资料\\鸢尾花数据\\data/某门课程平时成绩和期末考试成绩.csv")
+df = pd.read_csv("./某门课程平时成绩和期末考试成绩.csv")
 # print('打印读取到的成绩：\n',df.head())
 
 df_list = []
